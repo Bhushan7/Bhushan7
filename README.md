@@ -28,10 +28,10 @@ My work sits at the intersection of player trust, checkout conversion, and payme
 
 ## What I'm Building
 
-### 📬 [AI Pulse for PMs](https://github.com/Bhushan7/ai-pulse-for-pms) · [Live →](https://ai-pulse-for-pms.vercel.app)
+### 📬 [AI Pulse for PMs](https://github.com/Bhushan7/ai-pulse-for-pms) · [🚧 In Development →](https://ai-pulse-for-pms.vercel.app)
 A weekly newsletter and platform for Product Managers who want to actually understand AI — not just hear about it. Curated AI news filtered for relevance to product work, with concrete PM use cases and deep-dive links. Built with TypeScript, Supabase, and Vercel.
 
-### 💊 [GLP-1 Companion](https://github.com/Bhushan7/glp1-companion) · [Live →](https://myglp1companion.com)
+### 💊 [GLP-1 Companion](https://github.com/Bhushan7/glp1-companion) · [🚧 In Development →](https://myglp1companion.com)
 AI-powered health tracking for people on GLP-1 medications (Ozempic, Wegovy, Mounjaro). Delivers personalised weekly AI insights correlating food, hydration, energy, and weight data — and generates doctor-visit PDF summaries. Built with Next.js 14, Supabase, Claude API, and Vercel.
 
 ---
