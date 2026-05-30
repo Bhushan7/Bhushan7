@@ -63,7 +63,7 @@ Enterprise payment systems for global banking clients.
 
 ## GitHub Stats
 
-![Bhushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhushan7&show_icons=true&hide_border=true&count_private=true&theme=default)
+![Bhushan's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhushan7&theme=default)
 
 ---
 
