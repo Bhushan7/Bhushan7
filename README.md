@@ -18,7 +18,7 @@ My work sits at the intersection of player trust, checkout conversion, and payme
 
 | Metric | Result |
 |---|---|
-| Incremental quarterly revenue | **$29.6M** |
+| Incremental monthly revenue | **$8.3M** |
 | Bonus fraud reduction | **95%** |
 | Payout processing time | **72h → 8h** |
 | CS ticket reduction | **42%** |
