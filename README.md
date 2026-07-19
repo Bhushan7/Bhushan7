@@ -22,10 +22,10 @@ My work sits at the intersection of player trust, checkout conversion, and payme
 | Average Order Value lift | **+30%** |
 | Monthly Transaction Processing Volume | **$300M+** |
 | Bonus fraud reduction | **95%** |
-| Funds recirculated | **$134M+%** |
+| Funds recirculated | **$134M+** |
 | Payout processing time | **72h → 8h** |
 | CS ticket reduction | **42%** |
-| Digital wallet registrations | **400%+ growth** |
+| Digital wallet registrations | **400% growth** |
 
 ---
 
