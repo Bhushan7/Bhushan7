@@ -9,7 +9,7 @@ My work sits at the intersection of player trust, checkout conversion, and payme
 - Global payment infrastructure: checkout, disbursements, PSP routing
 - Fraud detection & bonus abuse systems
 - A/B experimentation on conversion flows
-- APM integrations & compliance (UKGC / EU)
+- APM integrations & compliance (UKGC / Spain / KGC)
 - AI-native PM workflows (Claude, ChatGPT, Figma Make)
 
 ---
@@ -18,8 +18,11 @@ My work sits at the intersection of player trust, checkout conversion, and payme
 
 | Metric | Result |
 |---|---|
-| Incremental monthly revenue | **$8.3M** |
+| Incremental monthly revenue | **+$8.3M** |
+| Average Order Value lift | **+30%** |
+| Monthly Transaction Processing Volume | **$300M+** |
 | Bonus fraud reduction | **95%** |
+| Funds recirculated | **$134M+%** |
 | Payout processing time | **72h → 8h** |
 | CS ticket reduction | **42%** |
 | Digital wallet registrations | **400%+ growth** |
@@ -28,11 +31,14 @@ My work sits at the intersection of player trust, checkout conversion, and payme
 
 ## What I'm Building
 
+### 💊 [GLP-1 Companion](https://github.com/Bhushan7/glp1-companion) · [🚀 Early Stage →](https://www.glpcoach.us)
+AI-powered health tracking for people on GLP-1 medications (Ozempic, Wegovy, Mounjaro). Delivers personalised weekly AI insights correlating food, hydration, energy, and weight data — and generates doctor-visit PDF summaries. Built with Next.js 14, Supabase, Claude API, and Vercel.
+
+### 🦋 [Alongside You](https://github.com/Bhushan7/alongside) · [🌟 MVP →](https://alongside-you.vercel.app/wedge)
+A non-punishing accountability companion that helps people with ADHD start tasks — combining async body-doubling, AI-powered task breakdown, and shame-free check-ins designed around how the ADHD brain actually initiates action. Built with Claude API, Supabase, and Vercel.
+
 ### 📬 [AI Pulse for PMs](https://github.com/Bhushan7/ai-pulse-for-pms) · [🚧 In Development →](https://ai-pulse-for-pms.vercel.app)
 A weekly newsletter and platform for Product Managers who want to actually understand AI — not just hear about it. Curated AI news filtered for relevance to product work, with concrete PM use cases and deep-dive links. Built with TypeScript, Supabase, and Vercel.
-
-### 💊 [GLP-1 Companion](https://github.com/Bhushan7/glp1-companion) · [🚧 In Development →](https://myglp1companion.com)
-AI-powered health tracking for people on GLP-1 medications (Ozempic, Wegovy, Mounjaro). Delivers personalised weekly AI insights correlating food, hydration, energy, and weight data — and generates doctor-visit PDF summaries. Built with Next.js 14, Supabase, Claude API, and Vercel.
 
 ---
 
@@ -73,4 +79,4 @@ Open to senior PM opportunities in **payments, fintech, or iGaming**.
 
 - 🌐 [Portfolio](https://bhushan-murari-portfolio.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/bhushanmurari)
-- 📧 bhushan93.m@gmail.com
+- 📧 bhushan1993.m@gmail.com
